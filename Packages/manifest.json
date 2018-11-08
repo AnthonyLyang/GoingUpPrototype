@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "com.unity.postprocessing": "2.0.10-preview",
+    "com.unity.cinemachine": "2.2.7"
+  }
+}
